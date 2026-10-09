@@ -5,8 +5,8 @@
 [Link to Source Code](https://github.com/EmilyYang728/programmingportfolio/blob/main/src/Calculator/Calculator.pde)
 
 ## Overview
-Basic calculator with four operators +, -, ×, ÷, and other special keys (trigonometric functions, ±, Clear, square root)
-Linked to keyboard and mouse
+Basic calculator with four operators +, -, ×, ÷, and other special keys (trigonometric functions, ±, Clear, square root). 
+Linked to keyboard and mouse.
 
 ## Current Status
 Working:
