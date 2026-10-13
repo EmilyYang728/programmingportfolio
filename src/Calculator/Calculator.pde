@@ -63,6 +63,11 @@ void drawDisplay() {
   textSize(33);
   textAlign(RIGHT);
   text(displayVal, width-30, 90);
+  if(displayVal.length() < 13) {
+    textSize(33);
+  } else {
+    displayVal = "too big";
+  }
 }
 
 void mouseReleased() {
